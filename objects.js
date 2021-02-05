@@ -1,7 +1,4 @@
-var playlist = {
-  'Adele': 'Hello',
-  'noAdele': 'bye'
-};
+var playlist = {};
 
 function updatePlaylist(playlist, artist, title) {
   return playlist.artist = title

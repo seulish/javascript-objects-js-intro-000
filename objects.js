@@ -1,1 +1,4 @@
-var playlist = { 'Adele': 'Hello' }
+var playlist = {
+  'Adele': 'Hello',
+  'noAdele': 'bye'
+};
